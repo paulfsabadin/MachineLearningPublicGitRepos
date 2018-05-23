@@ -46,3 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 UdacityML/.idea/
+UdacityML/dog-project/.ipynb_checkpoints/
+UdacityML/dog-project/__pycache__/extract_bottleneck_features.cpython-35.pyc
+UdacityML/dog-project/SabadinDogApp.zip
